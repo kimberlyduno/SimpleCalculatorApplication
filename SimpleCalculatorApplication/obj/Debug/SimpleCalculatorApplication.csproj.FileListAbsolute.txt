@@ -1,0 +1,10 @@
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\SimpleCalculatorApplication.exe.config
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\SimpleCalculatorApplication.exe
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\bin\Debug\SimpleCalculatorApplication.pdb
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.csprojAssemblyReference.cache
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.Form1.resources
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.Properties.Resources.resources
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.exe
+C:\Users\Kent Duno\source\repos\SimpleCalculatorApplication\SimpleCalculatorApplication\obj\Debug\SimpleCalculatorApplication.pdb
